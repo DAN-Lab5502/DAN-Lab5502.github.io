@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Upload Test"
+title:  "Troubleshooting Test"
 date:   2020-09-09 17:41:00 +0900
-categories: study
+categories: troubleshooting
 ---
 
-# DAN Lab.
-## Data Analysis and Nateworking Lab.
+# Troubleshooting Category Upload Test
+## Category Upload Test
 ### Upload Test
 - Upload Test
     - Upload Test
