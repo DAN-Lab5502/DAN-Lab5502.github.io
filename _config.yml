@@ -3,8 +3,11 @@ email: danlab5502@gmail.com
 description: >-
 baseurl: ''
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+github_username: https://github.com/Dan-Lab-5502
 theme: minima
 plugins:
   - jekyll-feed
+navbar-links:
+  Category:
+    - TroubleShooting: "/category/troubleshooting"
+    - Study: "/category/study"

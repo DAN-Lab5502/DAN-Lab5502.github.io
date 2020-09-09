@@ -25,6 +25,7 @@ DAN lab is established by prof. Hyunhee Park (assistant professor of the departm
     - 취약점 자동 탐지
     - 안드로이드 악성 App 탐지 (혹은 안드로이드 App 취약점 탐지) - with KH, KM
 - CIC Data analysis for attack detection - with SH, MJ
+- 802.11bb (802.11-18/1423r4 - Simulation scenarios)
 
 ***
 
